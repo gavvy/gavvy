@@ -1,0 +1,3 @@
+These things that I've noticed....
+Here I am,
+Now
