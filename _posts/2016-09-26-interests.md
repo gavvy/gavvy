@@ -8,12 +8,12 @@ categories: [design, tool]
 
 ``` Engineering ```
 
-1) Creating an empire
-2) metaphysical topics
-3) Emotional Health Impacts
-4) Chocolate
-5) All things human and individualistic
-6) interlaced worlds of math and sciene in reality
-7) my nanofluidics research
-8) learning languages
-9) FOooooood
+* Creating an empire
+* metaphysical topics
+* Emotional Health Impacts
+* Chocolate
+* All things human and individualistic
+* interlaced worlds of math and sciene in reality
+* my nanofluidics research
+* learning languages
+* FOooooood
