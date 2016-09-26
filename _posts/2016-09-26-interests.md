@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Things That Spark My Attention"
-subtitle: "(incase you were wondering"
-date:   2015-09-06 23:34:01
+subtitle: "(incase you were wondering)"
+date:   2016-09-26 23:34:01
 categories: [design, tool]
 ---
 
