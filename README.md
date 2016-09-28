@@ -3,6 +3,8 @@
 # Daktilo
 Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
 
+jekyll serve --host $IP --port $PORT
+
 # More info and Live preview
 [Click here](http://daktilo.github.io/) to see the theme in action.
 
