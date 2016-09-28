@@ -17,3 +17,5 @@ categories: [design, tool]
 * my nanofluidics research
 * learning languages
 * FOooooood
+* secret society formulation
+* animals
