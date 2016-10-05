@@ -9,3 +9,4 @@ categories: [design, tool]
 <h2>Things that make sense to me</h2>
 ![Redwoods](/images/redwoods.jpg)
 
+<i class="fa fa-btc" aria-hidden="true"></i>

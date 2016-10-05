@@ -1,10 +1,17 @@
 ---
 layout: post
-title:  "Reflection"
+title:  "Reflection" 
 subtitle: "Food, I wish"
 date:   2016-09-26 23:56:45
 categories: [tool]
 ---
+<i class="fa fa-hand-spock-o" aria-hidden="true"></i>
+<i class="fa fa-hand-spock-o" aria-hidden="true"></i>
+<i class="fa fa-hand-spock-o" aria-hidden="true"></i>
+<i class="fa fa-hand-spock-o" aria-hidden="true"></i>
+<i class="fa fa-hand-spock-o" aria-hidden="true"></i>
+<i class="fa fa-hand-spock-o" aria-hidden="true"></i>
+<i class="fa fa-hand-spock-o" aria-hidden="true"></i>
 
 ```
 "" We know what we are for, and how we became so informed. 

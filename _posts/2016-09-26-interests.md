@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: h
 title:  "Things That Spark My Attention"
 subtitle: "(incase you were wondering)"
 date:   2016-09-26 23:34:01
@@ -19,3 +19,5 @@ categories: [design, tool]
 * FOooooood
 * secret society formulation
 * animals
+ 
+<i class="fa fa-heartbeat" aria-hidden="true"></i>
