@@ -13,6 +13,44 @@ categories: [tool]
 <i class="fa fa-hand-spock-o" aria-hidden="true"></i>
 <i class="fa fa-hand-spock-o" aria-hidden="true"></i>
 
+I feel bad because by the time I wander into INLS 161 after a day full of physics, biomedical engineering design lab assignments, and the occasional calculus homework sesh, I am a fraction of the individual I was when I woke up in the morning.
+INLS 161 deserves more of me than that and as I restore balance, that's exactly what its going to get.
+
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+
+So far, I have really enjoyed playing around with style. I just love changing fonts and colors and combinations. Also learning how to format the weird poems I come up with has been a highlight. <i class="fa fa-key" aria-hidden="true"></i> 
+
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+
+I am impressed with how attentive Elliott is (shoutout to you if you're reading this). You actually care about our knowledge absorption level which is not the norm when it comes to college level instruction. Most of my professors have the mentality of "do more calculus problems and then you'll understand it and if you still don't understand it then maybe you shouldn't be a stem major." (<i class="fa fa-frown-o" aria-hidden="true"></i>
+)
+I've enjoyed the overlap of creativity and hard coding science and seeing how my peers integrate the two. So far, I would be stoked to take another INLS class en el futuro.
+
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+<i class="fa fa-sun-o" aria-hidden="true"></i>
+
 ```
 "" We know what we are for, and how we became so informed. 
 Bodies of info performing such miracles. I am a miracle made up of particles"
