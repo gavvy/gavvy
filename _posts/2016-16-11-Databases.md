@@ -23,4 +23,4 @@ Running into a troubleshooting wall, such as the one I feel like I've currently 
 Beyond just the scope of this due date, I am going to talk to my group members more about optimizing the code and how they typically approach similar situations.
 
 The scripts first ask a series of questions that pertain to the user's personal preferences. Then it proceeds to ask a series of random short-answer questions that have to do with the user's interests. Following the end of the script, the data is recorded in the database.
-[Here](https://github.com/jamiemramos/blackngreen/tree/it) is a link to my commits.
+[Here](https://github.com/jamiemramos/blackngreen/tree/it) is a link to my commits and explorations.
